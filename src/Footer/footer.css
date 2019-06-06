@@ -1,0 +1,21 @@
+.utu{
+  margin-left: 4%;
+  margin-right: 4%;
+  background-color: #f2f2f2;
+  display: flex;
+  padding-left: 6%;
+  margin-bottom: 0px;
+  font-size: 0.9em;
+}
+.utr{
+  padding: 2%;
+}
+.utp{
+  margin-top: 0px;
+  margin-left: 4%;
+  margin-right: 4%;
+  text-align: center;
+  background-color: #f2f2f2;
+  padding-bottom: 30px;
+  font-size: 0.9em;
+}

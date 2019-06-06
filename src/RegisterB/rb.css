@@ -1,0 +1,67 @@
+.Register{
+  text-align: center;
+}
+.bdittt{
+  margin-top: 12px;
+  margin-left: 8%;
+  margin-right: 8%;
+  text-align: left;
+}
+.jdt{
+  display: flex;
+  margin-left: 8%;
+  margin-right: 8%;
+}
+.jdl{
+  margin-left: auto;
+}
+.jdg{
+   margin-left: 8%;
+   margin-right: 8%;
+   border: 1px solid grey;
+   margin-bottom: 20%;
+   padding-left: 14px;
+   padding-right: 14px;
+   padding-bottom: 14px;
+}
+.jt{
+  display: flex;
+  border-bottom: 1px solid grey;
+}
+.jtp{
+  width:33%;
+  border-left:solid 1px grey;
+  border-right: solid 1px grey;
+}
+.rtyy{
+  display: flex;
+  width:100%;
+}
+.utyy{
+  display: flex;
+}
+.oty{
+  width:33%;
+  background: #f2f2f2;
+  text-align: right;
+  padding-top: 3%;
+}
+.otyr{
+  padding-top: 4px;
+}
+.otyi{
+  padding-top: 8px;
+}
+.otyk{
+  padding-top: 26px;
+}
+.otyu{
+  padding-top: 16px;
+}
+.otyo{
+  padding-top: 8px;
+}
+.pty{
+  width:66%;
+  text-align: left;
+}
